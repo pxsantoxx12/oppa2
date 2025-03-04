@@ -1,4 +1,5 @@
 -- Local Lib para ESP (Roblox)
+loadstring(game:HttpGet(https://raw.githubusercontent.com/pxsantoxx12/oppa2/refs/heads/main/ESP.lua
 
 local ESP = {}
 
